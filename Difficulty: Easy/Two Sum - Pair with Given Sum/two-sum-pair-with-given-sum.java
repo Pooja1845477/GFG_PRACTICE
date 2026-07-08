@@ -1,0 +1,16 @@
+class Solution {
+    boolean twoSum(int arr[], int target) {
+        // code here
+        HashSet<Integer> set= new HashSet<>(); 
+        int n=arr.length;
+        for(int num:arr){
+            int complement=target-num;
+        
+        if(set.contains(complement)){
+            return true;
+        }
+        set.add(num);
+    }
+    return false;
+    }
+}
