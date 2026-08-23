@@ -1,0 +1,9 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/check-if-given-four-points-form-a-square3026/1">Check if Four Points Form a Square</a></h2><h3>Difficulty Level : Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p><span style="font-size: 18px;">Given an 2D array points[] which represents coordinates of four points in a plane. Find if the four points can form a square or not. Return true if they form a square else return false.</span></p>
+<p><strong><span style="font-size: 18px;">Examples :</span></strong></p>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>points[] = [[0, 0], [0, 1], [1, 0], [1, 1]]
+<strong>Output:</strong> true
+<strong>Explanation: </strong>These points form a square which can be clearly seen in the below image.<br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/929190/Web/Other/blobid0_1780572869.webp" width="220" height="216"><br></span></pre>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>points[] = [[0, 0], [1, 1], [1, 0], [0, 2]]
+<strong>Output: </strong>false
+<strong>Explanation: </strong>These four points do not form a square.<br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/929190/Web/Other/blobid1_1780572904.webp" width="236" height="239"><br></span></pre>
+<p><span style="font-size: 18px;"><strong>Constraints:</strong><br>0&nbsp;<span style="font-size: 18.6667px;">≤</span>&nbsp;X-coordinate, Y-coordinate&nbsp;<span style="font-size: 18.6667px;">≤</span>&nbsp;10<sup>5</sup></span></p></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>Amazon</code>&nbsp;<code>Zoho</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Mathematics</code>&nbsp;
