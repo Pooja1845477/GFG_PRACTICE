@@ -1,0 +1,6 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/remainder-on-dividing-by-11--170647/1">Remainder on Division by 11</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p><span style="font-size: 18px;">Given a big positive number <strong>s</strong> represented as a string, find the value of s mod 11.</span></p><p><strong><span style="font-size: 18px;">Examples:</span></strong></p><pre><span style="font-size: 18px;"><strong>Input: </strong>s = 1345</span>
+<span style="font-size: 18px;"><strong>Output: </strong>3
+<strong>Explanation:</strong> 1345 % 11 = 3.</span></pre><pre><span style="font-size: 18px;"><strong>Input: </strong>s = 231456786543567898765</span>
+<span style="font-size: 18px;"><strong>Output: </strong>1
+<strong>Explanation:</strong> 231456786543567898765 % 11 = 1.</span>
+</pre></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>Amazon</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Mathematics</code>&nbsp;<code>Modular Arithmetic</code>&nbsp;
