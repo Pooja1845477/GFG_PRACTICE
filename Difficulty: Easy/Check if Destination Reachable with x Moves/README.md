@@ -1,0 +1,14 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/final-destination4628/1">Check if Destination Reachable with x Moves</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p><span style="font-size: 14pt;">Given three integers <strong>a</strong>, <strong>b</strong>, and <strong>x</strong>, where (a, b) represents a target position on an infinite 2D plane and x represents the exact number of moves available. </span></p>
+<ul>
+<li><span style="font-size: 14pt;">A robot starts at (0, 0) and in one move can travel one unit left, right, up, or down. </span></li>
+<li><span style="font-size: 14pt;">Find whether the robot can reach the position (a, b) in exactly x moves. Return&nbsp;<strong>true&nbsp;</strong>if possible; otherwise, return <strong>false</strong>.</span></li>
+</ul>
+<p><span style="font-size: 18px;"><strong>Examples:</strong></span></p>
+<pre><span style="font-size: 18px;"><strong style="font-size: 18px;">Input:</strong><span style="font-size: 14pt;"> a </span></span><strong><span style="font-size: 18px;">= </span></strong><span style="font-size: 18px;">5, b <strong>= </strong>5, x <strong>= </strong>11</span>
+<span style="font-size: 18px;"><strong><span style="font-size: 18px;">Output:</span> </strong></span><span style="font-size: 18px;">false</span>
+<span style="font-size: 18px;"><strong>Explanation:</strong>The minimum number of moves required to reach (5, 5) is |5| + |5| = 10. One extra move remains, which is odd, so the robot cannot reach the destination in exactly 11 moves.</span></pre>
+<pre><span style="font-size: 18px;"><strong style="font-size: 18px;">Input:</strong><span style="font-size: 14pt;"> a </span><strong><span style="font-size: 18px;">= </span></strong><span style="font-size: 18px;">0, b <strong>= </strong>0, x <strong>= </strong>2</span></span>
+<span style="font-size: 18px;"><strong><span style="font-size: 18px;">Output:</span> </strong></span><span style="font-size: 18px;">true</span>
+<span style="font-size: 18px;"><strong>Explanation: </strong>The robot can move one step away from the origin and return in the next step. Therefore, it can be at (0, 0) after exactly 2 moves.</span>
+</pre>
+<p><span style="font-size: 18px;"><strong>Constraints:</strong></span><br><span style="font-size: 18px;">-10<sup>8</sup> &lt;= a,b &lt;= 10<sup>8</sup><br>1 &lt;= x &lt;= 2*</span><span style="font-size: 18px;">10</span><sup>8</sup></p></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>Zoho</code>&nbsp;<code>Flipkart</code>&nbsp;<code>Amazon</code>&nbsp;<code>Microsoft</code>&nbsp;<code>Samsung</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Mathematics</code>&nbsp;
